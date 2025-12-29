@@ -1,0 +1,21 @@
+{
+    "full_name": "Rahul Keshwani",
+    "name": "Rahul",
+    "current_role": "Software Engineer",
+    "location": "San Francisco, CA",
+    "linkedin": "https://www.linkedin.com/in/rahul-keswani/",
+    "interests": [
+      "Sports",
+      "Photography",
+      "Travel"
+    ],
+    "years_experience": 7,
+    "education": [
+      {
+        "degree": "Master of Science in Computer Science",
+        "institution": "New York University",
+        "year": "2019"
+      }
+    ]
+  }
+  
